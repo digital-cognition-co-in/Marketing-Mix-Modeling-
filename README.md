@@ -1,2 +1,2 @@
-# Marketing-Mix-Modeling-
-USE_Marketing Mix Modeling 
+# Marketing-Mix-Modeling [ Incomplete Code - Work In Progress ] 
+USE_R    Marketing Mix Modeling 
